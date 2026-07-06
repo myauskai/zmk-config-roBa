@@ -4,7 +4,7 @@
 #include <dt-bindings/zmk/pointing.h>
 
 // ここから
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 80
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 20
 // ここまで
 
 &mt {
